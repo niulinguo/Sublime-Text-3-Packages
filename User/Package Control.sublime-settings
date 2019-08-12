@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Emmet",
+		"JSCS-Formatter",
+		"JsFormat",
+		"MarkdownEditing",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Pretty JSON"
+	]
+}
