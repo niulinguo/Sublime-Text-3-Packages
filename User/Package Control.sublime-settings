@@ -8,11 +8,8 @@
 		"AdvancedNewFile",
 		"Babel",
 		"Emmet",
-		"JSCS-Formatter",
-		"JsFormat",
-		"MarkdownEditing",
-		"MarkdownLivePreview",
+		"jsfmt",
 		"Package Control",
-		"Pretty JSON"
+		"React ES6 Snippets"
 	]
 }

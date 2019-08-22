@@ -1,5 +1,7 @@
 {
-  "e4x": true,
-  // jsformat options
-  "format_on_save": true,
+	"indent_with_tabs": true,
+	"max_preserve_newlines": 2,
+	"e4x": true,
+	// jsformat options
+	"format_on_save": true
 }

@@ -1,0 +1,42 @@
+{
+    "autoformat": true,
+    "extensions": [
+        "js",
+        "jsx",
+        "sublime-settings"
+    ],
+    "options": {
+        "jsx": {
+            "alignWithFirstAttribute": false,
+            "attrsOnSameLineAsTag": false,
+            "firstAttributeOnSameLine": false,
+            "formatJSX": true,
+            "maxAttrsOnTag": 3,
+            "htmlOptions": { // same as the ones passed to js-beautifier.html
+                "brace_style": "collapse",
+                "indent_char": " ",
+                "indent_size": 4,
+                "max_preserve_newlines": 2,
+                "preserve_newlines": true,
+            //wrap_line_length: 250
+            }
+        },
+        "plugins": [
+            "esformatter-jsx"
+        ],
+        "indent": {
+            "value": "    "
+        }
+    },
+    "options-JSON": {
+        "indent": {
+            "value": "    "
+        },
+        "plugins": [
+            "esformatter-quotes"
+        ],
+        "quotes": {
+            "type": "double"
+        }
+    }
+}
